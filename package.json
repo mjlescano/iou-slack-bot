@@ -18,6 +18,8 @@
   "homepage": "https://github.com/mjlescano/iou-slack-bot#readme",
   "dependencies": {
     "body-parser": "1.14.1",
-    "express": "4.13.3"
+    "express": "4.13.3",
+    "mongoose": "4.2.2",
+    "mongoose-timestamp": "0.4.0"
   }
 }
