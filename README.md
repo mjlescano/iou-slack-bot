@@ -1,2 +1,4 @@
-# iou-slack-bot
-IOU Slack Bot - To keep track of your debts with your peers.
+IOU Slack Bot
+=============
+
+Keep track of your debts with your peers.
