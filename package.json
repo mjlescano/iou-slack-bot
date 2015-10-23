@@ -23,5 +23,9 @@
     "mongoose": "4.2.2",
     "mongoose-softdelete": "0.6.2",
     "mongoose-timestamp": "0.4.0"
+  },
+  "engines": {
+    "node": "4.2.1",
+    "npm": "3.3.9"
   }
 }
