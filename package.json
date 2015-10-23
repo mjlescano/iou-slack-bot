@@ -20,6 +20,7 @@
     "body-parser": "1.14.1",
     "express": "4.13.3",
     "mongoose": "4.2.2",
+    "mongoose-softdelete": "0.6.2",
     "mongoose-timestamp": "0.4.0"
   }
 }
