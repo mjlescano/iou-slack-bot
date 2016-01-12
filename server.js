@@ -1,6 +1,6 @@
 var app = require('./lib/boot')
 var config = require('./config')
 
-app.listen(config.port, function () {
+app.start(config.port).then(function () {
   console.log(' · ' + config.port + ' · ')
 })
