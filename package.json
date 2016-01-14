@@ -21,6 +21,7 @@
     "body-parser": "1.14.1",
     "debug": "^2.2.0",
     "express": "4.13.3",
+    "moment": "^2.11.1",
     "mongoose": "4.2.2",
     "mongoose-connection-ready": "^1.0.1",
     "mongoose-softdelete": "0.6.2",
