@@ -12,7 +12,7 @@
     "url": "git+https://github.com/mjlescano/iou-slack-bot.git"
   },
   "author": "mjlescano",
-  "license": "MIT",
+  "license": "GPL-3.0",
   "bugs": {
     "url": "https://github.com/mjlescano/iou-slack-bot/issues"
   },
