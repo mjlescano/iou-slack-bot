@@ -1,0 +1,14 @@
+{
+  "name": "IOU Slack Bot",
+  "description": "Keep track of your debts with your peers.",
+  "repository": "https://github.com/mjlescano/iou-slack-bot",
+  "logo": "https://dl.dropboxusercontent.com/u/87136585/iou-logo.png",
+  "keywords": [
+    "slack",
+    "bot",
+    "money",
+    "bets",
+    "credits",
+    "accounts"
+  ]
+}

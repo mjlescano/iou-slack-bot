@@ -1,6 +1,6 @@
 {
   "name": "iou-slack-bot",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Keep track of your debts with your peers.",
   "main": "server.js",
   "scripts": {
