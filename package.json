@@ -28,8 +28,8 @@
     "mongoose-timestamp": "0.4.0"
   },
   "engines": {
-    "node": "4.2.1",
-    "npm": "3.3.9"
+    "node": "6.x.x",
+    "npm": "3.x.x"
   },
   "devDependencies": {
     "standard": "^7.1.2"
