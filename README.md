@@ -44,4 +44,4 @@ Create an "Outgoing WebHook" [here](https://slack.com/apps/A0F7VRG6Q-outgoing-we
 Meh.
 
 ## License
-MIT
+GPL-v3
