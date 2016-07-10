@@ -10,5 +10,14 @@
     "bets",
     "credits",
     "accounts"
-  ]
+  ],
+  "addons": [
+    "mongolab:sandbox"
+  ],
+  "env": {
+    "TOKEN": {
+      "description": "A secret token to configure on Slack WebHook and allow it to use the Bot.",
+      "generator": "secret"
+    }
+  }
 }
