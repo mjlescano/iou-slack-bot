@@ -7,8 +7,8 @@ Keep track of your debts with your peers.
 ```
 iou              # Shows all your debts
 iou @user        # Get a list of your accounts with @user
-iou @user $20    # Add $20 to my debt to @user (the "$" is optional)
-ask @user $20    # Make @user owe you $20
+iou @user $20    # Add $20 to your debt to @user (the "$" is optional)
+ask @user $20    # Make @user owe you $20 more
 iou help         # Shows this message
 iou history      # Shows a list of all the transactions you where involved
 ```
