@@ -30,8 +30,8 @@ Or just run it on your own server:
 
 Create an "Outgoing WebHook" [here](https://slack.com/apps/A0F7VRG6Q-outgoing-webhooks). With this settings (change them as you wish, very opinionated):
 
-* **Channel:** `#iou`.
-* **Trigger Word(s):** Empty. (If you didn't choose any channel, this should be `iou,ask`).
+* **Channel:** `#iou`
+* **Trigger Word(s):** `iou,ask`
 * **URL(s):** The url of your server with a trailing `/bot`. e.g.: `https://iou-slack-bot.herokuapp.com/bot`
 * **Token:** The `TOKEN` you generated on "Deploy" step. (if heroku, get it with `heroku config:get TOKEN`)
 * **Descriptive Label:** `iou`
