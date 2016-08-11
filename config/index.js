@@ -1,5 +1,7 @@
+var env = process.env
+
 module.exports = {
-  port: process.env.PORT || 3000,
-  mongoUrl: process.env.MONGOLAB_URI || process.env.MONGO_URL || 'mongodb://localhost/iou-slack-bot',
-  token: process.env.TOKEN || null
+  port: env.PORT || 3000,
+  mongoUrl: env.MONGOLAB_URI || env.MONGO_URL || 'mongodb://localhost/iou-slack-bot',
+  tokens: (env.TOKEN || env.TOKENS) && (env.TOKEN || env.TOKENS).split(',') || []
 }
