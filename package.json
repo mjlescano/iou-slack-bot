@@ -18,20 +18,20 @@
   },
   "homepage": "https://github.com/mjlescano/iou-slack-bot#readme",
   "dependencies": {
-    "body-parser": "1.14.1",
+    "body-parser": "1.16.0",
     "debug": "^2.2.0",
-    "express": "4.13.3",
+    "express": "4.14.0",
     "moment": "^2.11.1",
-    "mongoose": "4.6.3",
+    "mongoose": "4.7.8",
     "mongoose-connection-ready": "^1.0.1",
-    "mongoose-softdelete": "0.6.2",
-    "mongoose-timestamp": "0.4.0"
+    "mongoose-softdelete": "0.6.3",
+    "mongoose-timestamp": "0.6.0"
   },
   "engines": {
     "node": "6.x.x",
     "npm": "3.x.x"
   },
   "devDependencies": {
-    "standard": "^7.1.2"
+    "standard": "^8.6.0"
   }
 }
