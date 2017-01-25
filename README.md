@@ -1,6 +1,8 @@
 IOU Slack Bot
 =============
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/mjlescano/iou-slack-bot.svg)](https://greenkeeper.io/)
+
 Keep track of your debts with your peers.
 
 ## Commands
