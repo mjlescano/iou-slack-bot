@@ -31,11 +31,12 @@
     "snyk": "^1.41.1"
   },
   "engines": {
-    "node": "6.x.x",
-    "npm": "3.x.x"
+    "node": "6",
+    "npm": "3"
   },
   "devDependencies": {
-    "standard": "^7.1.2"
+    "eslint": "4.14.0",
+    "eslint-config-democracyos": "2.0.2"
   },
   "snyk": true
 }
